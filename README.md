@@ -3,7 +3,7 @@
 I'm Dawid, a first-year student at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), who's been trying his hand at backend for some time now. I started my programming adventure a few years ago, falling in love with python. Since then, I have developed my database and web development skills, which combined with python allowed me to start my backend adventure. Also, I am a lover of coffee and good music.
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=raczu.raczu&left_color=grey&right_color=green&left_text=Visits)
-[![email badge](https://img.shields.io/badge/kontakt.raczu@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)](kontakt.raczu@gmail.com)
+[![email badge](https://img.shields.io/badge/kontakt.raczu@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)](mailto:kontakt.raczu@gmail.com)
 [![twitter badge](https://img.shields.io/badge/@raczuu1-informational?style=flat&logo=twitter&logoColor=white)](https://twitter.com/raczuu1)
 
 ## Technologies
