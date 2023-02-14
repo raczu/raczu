@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dawid, a second-year student at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), who's been trying his hand at backend for some time now. I started my programming adventure a few years ago, falling in love with python. Since then, I have developed my database and web development skills, which combined with python allowed me to start my backend adventure. Also, I am a lover of coffee and good music.
+I'm Dawid, a second-year student at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), who's been trying his hand at backend for some time now. I started my programming adventure a few years ago, falling in love with python. Since then, I have developed my database and web development skills, which combined with python allowed me to start my backend adventure. Recently, I have been working on developing my programming skills in Go combined with Kubernetes. Also, I am a lover of coffee and good music.
 
 ![visitor badge](https://komarev.com/ghpvc/?username=raczu&label=Visits&color=green)
 [![email badge](https://img.shields.io/badge/contact@raczu.me-red?style=flat&logo=gmail&logoColor=white&labelColor=red)](mailto:contact@raczu.me)
@@ -16,7 +16,6 @@ I'm Dawid, a second-year student at the [Wrocław University of Science and Tech
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ## I'm currently learning
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
