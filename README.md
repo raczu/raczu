@@ -1,29 +1,26 @@
 ## Hi there 👋
 
-I'm Dawid, a third-year student at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), who's been trying his hand at backend for some time now. I started my programming adventure a few years ago, falling in love with python. Since then, I have developed my database and web development skills, which combined with python allowed me to start my backend adventure. Recently, I have been working on developing my programming skills in Go combined with Kubernetes. Also, I am a lover of coffee and good music.
+![visits](https://komarev.com/ghpvc/?username=raczu&abbreviated=true&style=flat&label=Vists&color=blue)
+![linkedin badge](https://img.shields.io/badge/raczu-blue?style=flat&logo=linkedin&color=%230A66C2&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fraczu)
+![x badge](https://img.shields.io/badge/%40raczuu1-black?style=flat&logo=x&link=https%3A%2F%2Ftwitter.com%2Fraczuu1)
+[![protonmail badge](https://img.shields.io/badge/raczu%2Bcontact%40protonmail.com-white?style=flat&logo=protonmail&color=%23382580)](mailto:raczu+contact@protonmail.com)
 
-![visitor badge](https://komarev.com/ghpvc/?username=raczu&label=Visits&color=green)
-[![email badge](https://img.shields.io/badge/raczu+contact@protonmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red)](mailto:raczu+contact@protonmail.com)
-[![twitter badge](https://img.shields.io/badge/@raczuu1-informational?style=flat&logo=twitter&logoColor=white)](https://twitter.com/raczuu1)
-[![linkedin badge](https://img.shields.io/badge/@raczu-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raczu)
+I'm Dawid, a third-year student at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), who's been programming for some time now. I started my programming adventure a few years ago, falling in love with Python. Since then, I have developed my skills as software engineer in various technologies and gained two years of commercial experience. Briefly speaking, I am open-minded person who is not afraidto take on new challenges and is focused on gaining new knowledge every day.
 
-## Technologies
+### Tech stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=Docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=Kubernetes&logoColor=white)
-
-## I'm currently learning
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-
-## I'd like to learn
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-gray?style=for-the-badge&logo=pytest&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-gray?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-gray?style=for-the-badge&logo=postgresql&logoColor=white)
+![Go](https://img.shields.io/badge/Go-gray?style=for-the-badge&logo=go&logoColor=white)
+![Kubernetess](https://img.shields.io/badge/Kubernetes-gray?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-gray?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-gray?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-gray?style=for-the-badge&logo=github-actions&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-gray?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-gray?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-gray?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-gray?style=for-the-badge&logo=c%2B%2B&logoColor=white)
