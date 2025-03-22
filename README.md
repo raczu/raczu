@@ -5,7 +5,7 @@
 ![x badge](https://img.shields.io/badge/%40raczuu1-black?style=flat&logo=x&link=https%3A%2F%2Ftwitter.com%2Fraczuu1)
 [![protonmail badge](https://img.shields.io/badge/raczu%2Bcontact%40protonmail.com-white?style=flat&logo=protonmail&color=%23382580)](mailto:raczu+contact@protonmail.com)
 
-I'm Dawid, a third-year student at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), who's been programming for some time now. I started my programming adventure a few years ago, falling in love with Python. Since then, I have developed my skills as software engineer in various technologies and gained two years of commercial experience. Briefly speaking, I am open-minded person who is not afraid to take on new challenges and is focused on gaining new knowledge every day.
+I'm Dawid, a master's student at the [Wrocław University of Science and Technology](https://pwr.edu.pl/en/), who's been programming for some time now. I started my programming adventure a few years ago, falling in love with Python. Since then, I have developed my skills as software engineer in various technologies and gained almost three years of commercial experience. Briefly speaking, I am open-minded person who is not afraid to take on new challenges and is focused on gaining new knowledge every day.
 
 ### Tech Stack
 
